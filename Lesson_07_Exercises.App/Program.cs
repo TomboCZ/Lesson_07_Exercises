@@ -1,6 +1,6 @@
 ﻿namespace Lesson_07_Exercises.App
 {
-    internal class Program
+    internal static class Program
     {
         private static void Main(string[] args)
         {
